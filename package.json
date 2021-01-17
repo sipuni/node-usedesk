@@ -1,0 +1,26 @@
+{
+  "name": "@sipuni/usedesk",
+  "version": "0.0.1",
+  "description": "Usedesk API wrapper for Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "node tests.js"
+  },
+  "author": "Sipuni <support@sipuni.com>",
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/sipuni/node-usedesk.git"
+  },
+  "keywords": [
+    "usedesk",
+    "nodejs",
+    "api"
+  ],
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
+}
